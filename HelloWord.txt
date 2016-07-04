@@ -1,1 +1,6 @@
-寇星宇i是good
+android studio 使用记录
+
+在studio中，jar架包可以在gradle文件中使用 compile直接引用
+
+
+文亮
